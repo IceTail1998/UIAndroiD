@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">maininterface</string>
+    <string name="app_name">Bottom Navigation</string>
+    <string name="title_setting">Setting</string>
+    <string name="title_aboutus">About us</string>
+    <string name="title_time">Time</string>
+    <string name="title_profile">Profile</string>
 </resources>
